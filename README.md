@@ -1,2 +1,2 @@
 # ml-dl
-learnings
+learnings, mathematical geniuses with statiticians
